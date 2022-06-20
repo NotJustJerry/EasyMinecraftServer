@@ -1,0 +1,77 @@
+[15:23:07] [ServerMain/INFO]: Building unoptimized datafixer
+[15:23:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:23:09] [ServerMain/INFO]: Loaded 7 recipes
+[15:23:10] [ServerMain/INFO]: Loaded 1179 advancements
+[15:23:10] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:23:10] [Server thread/INFO]: Loading properties
+[15:23:10] [Server thread/INFO]: Default game type: SURVIVAL
+[15:23:10] [Server thread/INFO]: Generating keypair
+[15:23:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:23:11] [Server thread/INFO]: Using default channel type
+[15:23:11] [Server thread/INFO]: Preparing level "world"
+[15:23:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:23:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:23:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:23:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:23:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:23:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:23:31] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[15:23:32] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[15:23:32] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:23:33] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[15:23:33] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[15:23:34] [Worker-Main-10/INFO]: Preparing spawn area: 7%
+[15:23:34] [Worker-Main-7/INFO]: Preparing spawn area: 9%
+[15:23:35] [Worker-Main-10/INFO]: Preparing spawn area: 11%
+[15:23:35] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[15:23:36] [Worker-Main-3/INFO]: Preparing spawn area: 14%
+[15:23:36] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[15:23:37] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[15:23:37] [Worker-Main-6/INFO]: Preparing spawn area: 20%
+[15:23:38] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[15:23:38] [Worker-Main-4/INFO]: Preparing spawn area: 23%
+[15:23:39] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[15:23:39] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[15:23:40] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[15:23:40] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[15:23:41] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[15:23:41] [Worker-Main-8/INFO]: Preparing spawn area: 38%
+[15:23:42] [Worker-Main-7/INFO]: Preparing spawn area: 42%
+[15:23:42] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[15:23:43] [Worker-Main-3/INFO]: Preparing spawn area: 46%
+[15:23:43] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[15:23:44] [Worker-Main-7/INFO]: Preparing spawn area: 53%
+[15:23:44] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[15:23:45] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[15:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[15:23:46] [Worker-Main-10/INFO]: Preparing spawn area: 63%
+[15:23:46] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[15:23:47] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[15:23:47] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[15:23:48] [Worker-Main-4/INFO]: Preparing spawn area: 74%
+[15:23:48] [Worker-Main-4/INFO]: Preparing spawn area: 77%
+[15:23:48] [User Authenticator #1/INFO]: UUID of player yidaimi is 357c83f3-79b6-4ef7-9a84-17c813838cf1
+[15:23:49] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:23:50] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:23:50] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:23:50] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:23:51] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[15:23:51] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[15:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 91%
+[15:23:52] [Worker-Main-10/INFO]: Preparing spawn area: 94%
+[15:23:53] [Worker-Main-6/INFO]: Preparing spawn area: 97%
+[15:23:53] [Server thread/INFO]: Time elapsed: 27192 ms
+[15:23:53] [Server thread/INFO]: Done (42.118s)! For help, type "help"
+[15:23:53] [Server thread/INFO]: yidaimi[/127.0.0.1:55387] logged in with entity id 281 at (-51.5, 90.0, -26.5)
+[15:23:53] [Server thread/INFO]: yidaimi joined the game
+[15:24:30] [Server thread/INFO]: <Server> hello
+[15:24:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:24:45] [Server thread/INFO]: <--[HERE]
+[15:25:33] [Server thread/INFO]: yidaimi lost connection: Disconnected
+[15:25:33] [Server thread/INFO]: yidaimi left the game
