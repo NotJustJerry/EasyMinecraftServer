@@ -42,7 +42,7 @@ public class PropertiesOperator extends ConfigOperator {
         config.put(key, value);
         StringBuilder configTxt = new StringBuilder();
         config.forEach((configKey, configValue) -> configTxt.append(configKey.startsWith("##useless_") ?
-                configTxt.append(configValue) :
+                configTxt.append(configValue).append("\n") :
                 configTxt.append("%s = %s\n".formatted(configKey, configValue))));
         FileUtil.writeBytes(configTxt.toString().getBytes(), configPath);
     }
